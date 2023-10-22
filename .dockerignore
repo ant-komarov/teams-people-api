@@ -1,0 +1,6 @@
+.github
+.gitignore
+.idea
+venv/
+README.md
+.env.sample
