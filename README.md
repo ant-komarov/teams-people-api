@@ -1,4 +1,4 @@
-# teams-peoples-api
+# teams-people-api
 
 Python project for creating teams and people and assigning people to teams
 
